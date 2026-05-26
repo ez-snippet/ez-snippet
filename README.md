@@ -1,5 +1,5 @@
 # 💫 About Me:
-# A L I 🚀<br><br> Full Stack Developer 💻<br><br>- 🔭 Working on Laravel & PHP Projects<br>- 🌱 Learning Laravel, JavaScript & Full Stack Development<br>- 👯 Open to Web Development Collaborations<br>- 💬 Ask me about PHP, Laravel & MySQL<br>- ⚡ Love building real-world web applications
+# Hi I'M  A L I 🚀<br><br> Full Stack Developer 💻<br><br>- 🔭 Working on Laravel & PHP Projects<br>- 🌱 Learning Laravel, JavaScript & Full Stack Development<br>- 👯 Open to Web Development Collaborations<br>- 💬 Ask me about PHP, Laravel & MySQL<br>- ⚡ Love building real-world web applications
 
 
 ## 🌐 Socials:
