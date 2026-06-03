@@ -1,5 +1,18 @@
 # 💫 About Me:
-# Hi I'M  A L I 🚀<br><br> Full Stack Developer 💻<br><br>- 🔭 Working on Laravel & PHP Projects<br>- 🌱 Learning Laravel, JavaScript & Full Stack Development<br>- 👯 Open to Web Development Collaborations<br>- 💬 Ask me about PHP, Laravel & MySQL<br>- ⚡ Love building real-world web applications
+# Hi, I'm Ali 🚀
+
+Full Stack Web Developer passionate about building modern and scalable web applications.
+📌 Current Project:
+Student Management System with Authentication, Dashboard, and Database Integration
+
+🌱 Currently Learning:
+Advanced JavaScript, Laravel Ecosystem, and Full Stack Development
+
+🎯 Career Goal:
+To grow into a professional Full Stack Developer and work on impactful real-world applications.
+
+⚡ I believe the best way to learn programming is by building projects and solving real problems.
+
 
 
 ## 🌐 Socials:
