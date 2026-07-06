@@ -75,7 +75,6 @@ Passionate about building modern, responsive, and scalable web applications usin
 - Laravel 12
 - RESTful API Development
 - JSON Responses
-- MySQL Database
 - MVC Architecture
 
 ---
