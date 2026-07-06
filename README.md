@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
 <h3 align="center">
-🚀 Full-Stack PHP & Laravel Developer | JavaScript Engineer | Open Source Contributor
+🚀 Full Stack PHP & Laravel Developer | JavaScript Developer | Web Application Developer
 </h3>
 
 <p align="center">
