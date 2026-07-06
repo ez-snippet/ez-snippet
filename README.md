@@ -44,12 +44,21 @@ Passionate about building modern, responsive, and scalable web applications usin
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🧰 Tools
+### 🌍 CMS
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,postman" />
+<img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
+### 🧰 Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 📦 Other Technologies
+
+- JSON
 ---
 
 # 🚀 Featured Projects
