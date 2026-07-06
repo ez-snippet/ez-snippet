@@ -1,136 +1,99 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 
 <h3 align="center">
-💻 Full Stack PHP & Laravel Developer | JavaScript Developer | Open Source Learner 🚀
+🚀 Full-Stack PHP & Laravel Developer | JavaScript Engineer | Open Source Contributor
 </h3>
 
 <p align="center">
-Passionate about building modern, responsive, and scalable web applications using PHP, Laravel, JavaScript, and MySQL.
+<strong>Passionate about engineering modern, scalable, and high-performance web applications.</strong><br>
+Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript, and optimized database management.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ez-snippet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ez-snippet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🛠️ Tech Stack & Ecosystem
 
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning **Advanced JavaScript**, **Laravel**, and **REST APIs**
-- 🎯 Goal: Become a Professional Full Stack PHP & Laravel Developer
-- ⚡ Passionate about building real-world web applications and REST APIs.
-- 📚 Always learning new technologies and improving my coding skills.
+### 🌐 Frontend Development
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" alt="Frontend Tech" />
+  </a>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend & DB Tech" />
+  </a>
+</p>
+
+### 🧰 Tools, CMS & Formats
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,git,github" alt="Tools & CMS" />
+  </a>
+</p>
+<ul>
+  <li><strong>Data Formats:</strong> JSON, RESTful APIs</li>
+</ul>
 
 ---
 
-# 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🌍 CMS
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
-
-### 🧰 Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### 📦 Other Technologies
-
-- JSON
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎓 Student Management System
-- 🔐 Authentication System
-- 📊 Admin Dashboard
-- 📝 CRUD Operations
-- 💻 PHP + MySQL + Bootstrap
+* **Overview:** A comprehensive system designed to streamline academic administration.
+* **Key Features:** Secure Role-Based Authentication, Interactive Admin Dashboard, and full CRUD operations.
+* **Tech Stack:** PHP, MySQL, Bootstrap.
+
+### 🌐 Scalable RESTful API
+* **Overview:** A high-performance, secure backend API built following industry best practices.
+* **Key Features:** RESTful Architecture, Structured JSON Responses, and optimized MVC patterns.
+* **Tech Stack:** Laravel, PHP.
+
+### 📝 Dynamic Task Architecture (Todo App)
+* **Overview:** A clean, responsive productivity application focusing on smooth UX.
+* **Key Features:** Real-time DOM manipulation, persistent state, and fully fluid layouts.
+* **Tech Stack:** JavaScript (ES6+), HTML5, CSS3.
 
 ---
 
-### 🚀 Laravel REST API
-- Laravel 12
-- RESTful API Development
-- JSON Responses
-- MVC Architecture
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ez-snippet&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ez-snippet&theme=github-dark&hide_border=true" width="48%" />
+</p>
 
-### 📌 CRUD Application
-- Create
-- Read
-- Update
-- Delete
-- PHP + MySQL + Bootstrap
-
----
-
-### 📝 Todo App
-- Add / Edit / Delete Tasks
-- JavaScript DOM
-- Responsive Design
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ez-snippet&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=ez-snippet&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-snippet&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/muhammad-ali-782a52403">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/ez-snippet">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://instagram.com/x_datk4_n">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez-snippet&layout=compact&theme=github_dark&hide_border=true" width="60%" />
 </p>
 
 ---
 
-# 💡 Quote
+## 🤝 Let's Connect & Collaborate
 
-> **"Code. Learn. Build. Repeat." 🚀**
+I am always open to discussing **freelance opportunities**, **full-time roles**, or **open-source collaborations**. Feel free to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-ali-782a52403" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ez-snippet" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/x_datk4_n" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<p align="center">
+  <em>"Clean code always looks like it was written by someone who cares."</em> <br><br>
+  <strong>⭐️ Thank you for visiting my profile! ⭐️</strong>
+</p>
