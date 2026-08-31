@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
 <h3 align="center">
-🚀 Full Stack PHP Developer | Laravel Developer | JavaScript & jQuery Developer
+🚀 Full Stack PHP Developer 
 </h3>
 
 <p align="center">
 <strong>Passionate about building modern, scalable, and high-performance web applications.</strong><br>
-Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript & jQuery,
+Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript 
 and optimized database management with MySQL.
 </p>
 
