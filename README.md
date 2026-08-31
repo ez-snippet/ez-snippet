@@ -53,6 +53,16 @@ and optimized database management with MySQL.
 * **Key Features:** Role-Based Authentication, Admin Dashboard, CRUD Operations, and Database Management.
 * **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
 
+### 👥 Client Management System
+* **Overview:** A dynamic system for managing clients, records, and business-related information.
+* **Key Features:** Client Registration, CRUD Operations, Data Management, Search & Filtering, and Admin Dashboard.
+* **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript, jQuery.
+
+### 🛒 E-Commerce Web Application
+* **Overview:** A full-stack e-commerce website with dynamic products, customer orders, and admin management.
+* **Key Features:** Dynamic Product Listings, Product Details, Shopping Cart, Checkout & Order Management, Admin Dashboard, and Database Integration.
+* **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript, jQuery.
+
 ### 🌐 RESTful API
 * **Overview:** A structured backend API designed for scalable web applications.
 * **Key Features:** RESTful Architecture, Structured JSON Responses, MVC Architecture, and Database Integration.
@@ -62,8 +72,6 @@ and optimized database management with MySQL.
 * **Overview:** A responsive productivity application focused on dynamic user interaction.
 * **Key Features:** DOM Manipulation, Dynamic CRUD Operations, Event Handling, and Persistent Data.
 * **Tech Stack:** JavaScript, jQuery, HTML5, CSS3.
-
----
 
 ## 📊 GitHub Analytics
 
