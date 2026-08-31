@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
 <h3 align="center">
-🚀 Full Stack PHP & Laravel Developer | JavaScript Developer | Web Application Developer
+🚀 Full Stack PHP Developer | Laravel Developer | JavaScript & jQuery Developer
 </h3>
 
 <p align="center">
-<strong>Passionate about engineering modern, scalable, and high-performance web applications.</strong><br>
-Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript, and optimized database management.
+<strong>Passionate about building modern, scalable, and high-performance web applications.</strong><br>
+Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript & jQuery,
+and optimized database management with MySQL.
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@ Specializing in robust backend systems with PHP & Laravel, dynamic frontends wit
 ### 🌐 Frontend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" alt="Frontend Tech" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery" alt="Frontend Tech" />
   </a>
 </p>
 
@@ -37,8 +38,10 @@ Specializing in robust backend systems with PHP & Laravel, dynamic frontends wit
     <img src="https://skillicons.dev/icons?i=wordpress,git,github" alt="Tools & CMS" />
   </a>
 </p>
+
 <ul>
-  <li><strong>Data Formats:</strong> JSON, RESTful APIs</li>
+  <li><strong>Data Formats:</strong> JSON</li>
+  <li><strong>API:</strong> RESTful APIs</li>
 </ul>
 
 ---
@@ -46,19 +49,19 @@ Specializing in robust backend systems with PHP & Laravel, dynamic frontends wit
 ## 🚀 Featured Projects
 
 ### 🎓 Student Management System
-* **Overview:** A comprehensive system designed to streamline academic administration.
-* **Key Features:** Secure Role-Based Authentication, Interactive Admin Dashboard, and full CRUD operations.
-* **Tech Stack:** PHP, MySQL, Bootstrap.
+* **Overview:** A comprehensive web application designed to streamline student and academic management.
+* **Key Features:** Role-Based Authentication, Admin Dashboard, CRUD Operations, and Database Management.
+* **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
 
-### 🌐 Scalable RESTful API
-* **Overview:** A high-performance, secure backend API built following industry best practices.
-* **Key Features:** RESTful Architecture, Structured JSON Responses, and optimized MVC patterns.
-* **Tech Stack:** Laravel, PHP.
+### 🌐 RESTful API
+* **Overview:** A structured backend API designed for scalable web applications.
+* **Key Features:** RESTful Architecture, Structured JSON Responses, MVC Architecture, and Database Integration.
+* **Tech Stack:** PHP, Laravel, MySQL.
 
-### 📝 Dynamic Task Architecture (Todo App)
-* **Overview:** A clean, responsive productivity application focusing on smooth UX.
-* **Key Features:** Real-time DOM manipulation, persistent state, and fully fluid layouts.
-* **Tech Stack:** JavaScript (ES6+), HTML5, CSS3.
+### 📝 Dynamic Todo App
+* **Overview:** A responsive productivity application focused on dynamic user interaction.
+* **Key Features:** DOM Manipulation, Dynamic CRUD Operations, Event Handling, and Persistent Data.
+* **Tech Stack:** JavaScript, jQuery, HTML5, CSS3.
 
 ---
 
@@ -77,7 +80,8 @@ Specializing in robust backend systems with PHP & Laravel, dynamic frontends wit
 
 ## 🤝 Let's Connect & Collaborate
 
-I am always open to discussing **freelance opportunities**, **full-time roles**, or **open-source collaborations**. Feel free to reach out!
+I am open to discussing **freelance opportunities**, **full-time roles**, and
+**open-source collaborations**. Feel free to reach out!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ali-782a52403" target="_blank">
@@ -94,6 +98,7 @@ I am always open to discussing **freelance opportunities**, **full-time roles**,
 ---
 
 <p align="center">
-  <em>"Clean code always looks like it was written by someone who cares."</em> <br><br>
+  <em>"Clean code always looks like it was written by someone who cares."</em>
+  <br><br>
   <strong>⭐️ Thank you for visiting my profile! ⭐️</strong>
 </p>
