@@ -90,22 +90,7 @@ and optimized database management with MySQL.
 I am open to discussing **freelance opportunities**, **full-time roles**, and
 **open-source collaborations**. Feel free to reach out!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-ali-782a52403" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ez-snippet" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/x_datk4_n" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <em>"Clean code always looks like it was written by someone who cares."</em>
-  <br><br>
+  <br>
   <strong>⭐️ Thank you for visiting my profile! ⭐️</strong>
-</p>
