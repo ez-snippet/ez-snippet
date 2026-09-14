@@ -5,19 +5,21 @@
 </h3>
 
 <p>
-<strong>Passionate about building modern, scalable, and high-performance web applications.</strong><br>
-Specializing in robust backend systems with PHP & Laravel, dynamic frontends with JavaScript,
-and optimized database management with MySQL.
+<strong>Building practical and reliable web applications with clean programming logic.</strong><br>
+Specializing in PHP & Laravel for backend development, JavaScript for dynamic interfaces,
+and MySQL for database management.
 </p>
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=ez-snippet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend Development
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery" alt="Frontend Tech" />
@@ -25,13 +27,15 @@ and optimized database management with MySQL.
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend & DB Tech" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend & Database Tech" />
   </a>
 </p>
 
-### 🧰 Tools, CMS & Formats
+### 🧰 Tools & CMS
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,git,github" alt="Tools & CMS" />
@@ -39,13 +43,39 @@ and optimized database management with MySQL.
 </p>
 
 <ul>
-  <li><strong>Data Formats:</strong> JSON</li>
   <li><strong>API:</strong> RESTful APIs</li>
+  <li><strong>Data Format:</strong> JSON</li>
 </ul>
 
 ---
 
+## 🚀 Featured Projects
 
+### 👟 Shoes E-Commerce Website
+
+Full-stack e-commerce application built with PHP, MySQL, Bootstrap, and JavaScript.
+
+### 🔌 Laravel REST API
+
+RESTful API built with Laravel and PHP for backend development and data management.
+
+### 🎓 Student Management System
+
+PHP & MySQL application featuring authentication, CRUD operations, search, image uploads, and an admin dashboard.
+
+### 👥 Client Management System
+
+PHP & MySQL based system for managing clients and records with CRUD functionality.
+
+### 📝 Notes App
+
+JavaScript application using LocalStorage for saving and managing notes.
+
+### ✅ Todo App
+
+JavaScript-based task management application using DOM manipulation and browser storage.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -62,10 +92,16 @@ and optimized database management with MySQL.
 
 ## 🤝 Let's Connect & Collaborate
 
-I am open to discussing **freelance opportunities**, **full-time roles**, and
-**open-source collaborations**. Feel free to reach out!
+I am open to **full-time opportunities, freelance projects, and
+open-source collaborations**.
+
+<p>
+  <a href="https://github.com/ez-snippet">GitHub</a> •
+  <a href="https://linkedin.com/in/m-ali-782a52403">LinkedIn</a>
+</p>
 
 ---
 
-  <br>
-  <strong>⭐️ Thank you for visiting my profile! ⭐️</strong>
+<br>
+
+<strong>⭐️ Thanks for visiting my profile! ⭐️</strong>
