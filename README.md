@@ -1,107 +1,156 @@
-<h1>Hi 👋, I'm Ali</h1>
+# Hi 👋, I'm Ali
 
-<h3>
-🚀 Full Stack PHP Developer
-</h3>
+### 🚀 Full Stack PHP Developer
 
-<p>
-<strong>Building practical and reliable web applications with clean programming logic.</strong><br>
-Specializing in PHP & Laravel for backend development, JavaScript for dynamic interfaces,
-and MySQL for database management.
-</p>
+I build practical and reliable web applications with a strong focus on backend development, databases, REST APIs, and clean programming logic.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=ez-snippet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+Currently focused on **PHP, Laravel, MySQL, JavaScript, and WordPress** while continuously improving my software development skills.
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Full Stack PHP Developer
+- 🔥 Focused on **PHP & Laravel backend development**
+- 🗄️ Experienced with **MySQL & database-driven applications**
+- 🌐 Building web applications with **JavaScript, jQuery & Bootstrap**
+- 🔌 Working with **REST APIs & JSON**
+- 🛠️ Using **Git & GitHub** for version control
+- 📚 Currently expanding my skills into the **.NET ecosystem**
+- 🎯 Open to **Junior PHP / Laravel / Backend Developer** opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+### Frontend
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery" alt="Frontend Tech" />
-  </a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ⚙️ Backend & Databases
+### Backend
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend & Database Tech" />
-  </a>
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🧰 Tools & CMS
+### Database
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,git,github" alt="Tools & CMS" />
-  </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<ul>
-  <li><strong>API:</strong> RESTful APIs</li>
-  <li><strong>Data Format:</strong> JSON</li>
-</ul>
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👟 Shoes E-Commerce Website
+### 🛒 Shoes E-Commerce Store
 
-Full-stack e-commerce application built with PHP, MySQL, Bootstrap, and JavaScript.
+A full-stack e-commerce application built with PHP, MySQL, Bootstrap, and JavaScript.
 
-### 🔌 Laravel REST API
+**Features:**
+- Product management
+- Customer management
+- Admin panel
+- Product reviews
+- Search functionality
+- Database-driven store
 
-RESTful API built with Laravel and PHP for backend development and data management.
+🔗 [View Repository](https://github.com/ez-snippet/shoes-ecommerce-store)
+
+---
+
+### 🔥 Laravel REST API
+
+A RESTful API built with Laravel and PHP for handling backend operations and database communication.
+
+**Technologies:**
+`Laravel` `PHP` `MySQL` `REST API` `JSON`
+
+🔗 [View Repository](https://github.com/ez-snippet/laravel-rest-api)
+
+---
 
 ### 🎓 Student Management System
 
-PHP & MySQL application featuring authentication, CRUD operations, search, image uploads, and an admin dashboard.
+A PHP & MySQL based management system with authentication, CRUD operations, search, image uploads, and an admin dashboard.
+
+**Technologies:**
+`PHP` `MySQL` `Bootstrap` `AJAX`
+
+🔗 [View Repository](https://github.com/ez-snippet/student-management-system)
+
+---
 
 ### 👥 Client Management System
 
-PHP & MySQL based system for managing clients and records with CRUD functionality.
+A database-driven application for managing clients, records, services, and business information.
+
+**Technologies:**
+`PHP` `MySQL` `Bootstrap` `REST API`
+
+🔗 [View Repository](https://github.com/ez-snippet/client-management-system)
+
+---
 
 ### 📝 Notes App
 
-JavaScript application using LocalStorage for saving and managing notes.
+A lightweight JavaScript application for creating and managing notes using browser LocalStorage.
 
-### ✅ Todo App
+**Technologies:**
+`JavaScript` `HTML` `CSS` `LocalStorage`
 
-JavaScript-based task management application using DOM manipulation and browser storage.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ez-snippet&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ez-snippet&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez-snippet&layout=compact&theme=github_dark&hide_border=true" width="60%" />
-</p>
+🔗 [View Repository](https://github.com/ez-snippet/notes-app)
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 📊 GitHub Statistics
 
-I am open to **full-time opportunities, freelance projects, and
-open-source collaborations**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ez-snippet&show_icons=true&theme=github_dark&hide_border=true)
 
-<p>
-  <a href="https://github.com/ez-snippet">GitHub</a> •
-  <a href="https://linkedin.com/in/m-ali-782a52403">LinkedIn</a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ez-snippet&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-<br>
+## 📈 Contribution Activity
 
-<strong>⭐️ Thanks for visiting my profile! ⭐️</strong>
+![GitHub Streak](https://streak-stats.demolab.com?user=ez-snippet&theme=github-dark-blue&hide_border=true)
+
+---
+
+## 🌐 Portfolio & Profiles
+
+💼 **Portfolio:**  
+https://ali-portfolio-dev.netlify.app/
+
+💻 **GitHub:**  
+https://github.com/ez-snippet
+
+🔗 **LinkedIn:**  
+https://linkedin.com/in/m-ali-782a52403
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+- 💼 Junior PHP Developer opportunities
+- 🚀 Laravel / Backend development
+- 🌐 Full Stack Web Development
+- 🤝 Freelance projects
+- 🌱 Open-source collaboration
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Building practical web solutions with code.**
